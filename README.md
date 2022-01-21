@@ -43,8 +43,11 @@ Variables that can be found in the data:
 
 ## Changelog
 
+##### Jan. 20, 2022
+We confirmed and updated 30 entries with contributions from Washington Post readers: Kim Curlin Wettroth in Cary, N.C.; Paula L. Wiegand in Indian Head, Md.; Allen J. Wiener in Clearwater Beach, Fla.; Bridgett Williams-Searle in Albany, N.Y.
+
 ##### Jan. 14, 2022
-We confirmed and updated 30 entries with contributions from Washington Post readers: Luke Voyles in Tuscaloosa, Ala.; Ned Benton in Larchmont, N.Y.; Carol Bannes in St. Charles, Mo.; Joshua Benton in Arlington, Mass.; Karla Benton in Milwaukee; Melinda Buterbaugh in Los Angeles; Paul Carnahan in Barre, Vt.; Lisa C. Childs in Fayetteville, Ark.; Lyndon Comstock in Bolinas, Calif.; Vincent Johnson in Los Angeles; Charles Perkins in Enfield, N.H.; Dustin Renwick in Washington; Gordon Rose in Thousand Oaks, Calif.; Kelly L. Schmidt in St. Louis; Mary Louisa Bacon Sturges in El Cerrito, Calif.; Abby Westgate in Little Silver, N.J.
+We confirmed and updated 28 entries with contributions from Washington Post readers: Luke Voyles in Tuscaloosa, Ala.; Ned Benton in Larchmont, N.Y.; Carol Bannes in St. Charles, Mo.; Joshua Benton in Arlington, Mass.; Karla Benton in Milwaukee; Melinda Buterbaugh in Los Angeles; Paul Carnahan in Barre, Vt.; Lisa C. Childs in Fayetteville, Ark.; Lyndon Comstock in Bolinas, Calif.; Vincent Johnson in Los Angeles; Charles Perkins in Enfield, N.H.; Dustin Renwick in Washington; Gordon Rose in Thousand Oaks, Calif.; Kelly L. Schmidt in St. Louis; Mary Louisa Bacon Sturges in El Cerrito, Calif.; Abby Westgate in Little Silver, N.J.
 
 ##### Jan. 10, 2022
 Database originally published on Monday, January 10, 2022.
