@@ -89,7 +89,7 @@ A000191,Isaac Anderson,rep,1760-11-23,PA,"8,9",1803-10-17,1807-03-03,false
 A000192,James Patton Anderson,Delegate,1822-02-16,WA,34,1855-03-04,1857-03-03,true
 A000193,John Anderson,rep,1792-07-30,ME,"19,20,21,22",1825-12-09,1833-03-02,false
 A000194,John Alexander Anderson,rep,1834-06-26,KS,"46,47,48,49,50,51",1879-03-18,1891-03-03,false
-A000197,Joseph Inslee Anderson,sen,1757,TN,"5,6,7,8,9,10,11,12,13",1797-09-26,1815-03-03,unknown
+A000197,Joseph Inslee Anderson,sen,1757,TN,"5,6,7,8,9,10,11,12,13",1797-09-26,1815-03-03,true
 A000198,Joseph Halstead Anderson,rep,1800-08-25,NY,"28,29",1843-03-04,1847-03-03,false
 A000199,Josiah McNair Anderson,rep,1807-11-29,TN,31,1849-03-04,1851-03-03,true
 A000201,Lucien Anderson,rep,1824-06-23,KY,38,1863-03-04,1865-03-04,true
@@ -419,7 +419,7 @@ B000510,William Jasper Blackburn,rep,1820-07-24,LA,40,1868-07-18,1869-03-03,fals
 B000511,William Blackledge,rep,,NC,"8,9,10,12",1803-11-17,1813-03-03,true
 B000512,William Salter Blackledge,rep,1793,NC,"16,17",1819-12-06,1823-03-03,true
 B000513,Esbon Blackmar,rep,1805-06-19,NY,30,1848-12-04,1849-03-03,false
-B000516,Julius W. Blackwell,rep,1797,TN,"26,28",1839-03-04,1845-03-03,unknown
+B000516,Julius W. Blackwell,rep,1797,TN,"26,28",1839-03-04,1845-03-03,true
 B000519,James Gillespie Blaine,"rep,sen",1830-01-31,ME,"38,39,40,41,42,43,44,45,46,47",1863-03-04,1881-03-05,false
 B000521,Austin Blair,rep,1818-02-08,MI,"41,40,42",1867-03-04,1873-03-03,false
 B000522,Bernard Blair,rep,1801-05-24,NY,27,1841-03-04,1843-03-03,unknown
@@ -620,7 +620,7 @@ B000924,Jason Brevoort Brown,rep,1839-02-26,IN,"51,52,53",1889-03-04,1895-03-04,
 B000925,Jeremiah Brown,rep,1785-04-14,PA,"27,28",1841-03-04,1845-03-03,false
 B000926,John Brown,rep,1772-08-12,PA,"17,18",1821-12-03,1825-03-03,false
 B000927,John Brown,rep,1736-01-27,RI,6,1799-12-02,1801-03-03,true
-B000928,John Brown,rep,,MD,11,1809-05-22,1810,unknown
+B000928,John Brown,rep,,MD,11,1809-05-22,1810,true
 B000929,John Brown,"rep,sen",1757-09-12,"VA,KY","1,2,3,4,5,6,7,8",1789-03-04,1805-03-03,true
 B000930,John Brewer Brown,rep,1836-05-13,MD,52,1892-12-05,1893-03-04,true
 B000932,John W. Brown,rep,1796-10-11,NY,"23,24",1833-12-02,1837-03-03,false
@@ -735,7 +735,7 @@ B001194,William Butler,rep,1759-12-17,SC,"7,8,9,10,11,12",1801-12-07,1813-03-03,
 B001195,William Butler,rep,1790-02-01,SC,27,1841-03-04,1843-03-03,true
 B001197,William Orlando Butler,rep,1791-04-19,KY,"26,27",1839-03-04,1843-03-03,true
 B001198,Samuel Butman,rep,1788,ME,"20,21",1827-09-27,1831-03-03,false
-B001199,Martin Butterfield,rep,1790-12-08,NY,36,1859-03-04,1861-03-03,unknown
+B001199,Martin Butterfield,rep,1790-12-08,NY,36,1859-03-04,1861-03-03,false
 B001200,Benjamin Butterworth,rep,1837-10-22,OH,"46,47,49,50,51",1879-03-18,1891-03-03,false
 B001202,Charles Wilson Buttz,rep,1837,SC,44,1875-03-05,1877-03-04,false
 B001204,Jesse Atherton Bynum,rep,1797-05-23,NC,"23,24,25,26",1833-12-02,1841-03-03,true
@@ -883,7 +883,7 @@ C000280,William Chamberlain,rep,1755-04-27,VT,"8,11",1803-10-17,1811-03-03,unkno
 C000281,David Chambers,rep,1780-11-25,OH,17,1821-12-03,1823-03-03,false
 C000282,Ezekiel Forman Chambers,sen,1788,MD,"19,20,21,22,23",1826-01-24,1835-03-03,true
 C000283,George Chambers,rep,1786-02-24,PA,"23,24",1833-12-02,1837-03-03,false
-C000284,Henry H. Chambers,sen,1790,AL,19,1825-03-04,1826-01-24,unknown
+C000284,Henry H. Chambers,sen,1790,AL,19,1825-03-04,1826-01-24,true
 C000285,John Chambers,rep,1780-10-06,KY,"20,24,25",1828-12-01,1839-03-03,true
 C000288,Epaphroditus Champion,rep,1756-04-06,CT,"10,11,12,13,14",1807-10-26,1817-03-03,false
 C000289,Christopher Grant Champlin,"rep,sen",1768-04-12,RI,"5,6,11,12",1797-05-15,1811-10-02,true
@@ -1011,13 +1011,13 @@ C000507,Isaac Clements,rep,1837,IL,43,1873-03-04,1875-03-03,false
 C000509,Newton Nash Clements,rep,1837,AL,46,1879-03-18,1881-03-03,true
 C000510,David Clendenin,rep,1779,OH,"13,14",1813-05-24,1817-03-03,true
 C000511,Chauncey Fitch Cleveland,rep,1799-02-16,CT,"31,32",1849-03-04,1853-03-03,false
-C000513,Jesse Franklin Cleveland,rep,1804-10-25,GA,"24,25",1835-12-07,1839-03-03,unknown
+C000513,Jesse Franklin Cleveland,rep,1804-10-25,GA,"24,25",1835-12-07,1839-03-03,true
 C000514,Orestes Cleveland,rep,1829-03-02,NJ,41,1869-03-04,1871-03-03,false
 C000517,Charles P. Clever,Delegate,1830-02-23,NM,40,1867-03-04,1869-02-20,unknown
 C000518,Nathan Clifford,rep,1803-08-18,ME,"26,27",1839-03-04,1843-03-03,false
 C000519,Joseph Wales Clift,rep,1837-09-30,GA,40,1868-07-25,1869-03-03,false
 C000520,Duncan Lamont Clinch,rep,1787-04-06,GA,28,1844-02-15,1845-03-03,true
-C000524,Thomas Lanier Clingman,"rep,sen",1812-07-27,NC,"28,30,31,32,33,34,35,36,37",1843-03-04,1861-07-11,unknown
+C000524,Thomas Lanier Clingman,"rep,sen",1812-07-27,NC,"28,30,31,32,33,34,35,36,37",1843-03-04,1861-07-11,false
 C000525,De Witt Clinton,sen,1769,NY,"7,8",1802-02-09,1803-11-04,true
 C000526,George Clinton,rep,1771-06-06,NY,"8,9,10",1803-10-17,1809-03-03,true
 C000528,James Graham Clinton,rep,1804-01-02,NY,"27,28",1841-03-04,1845-03-03,false
@@ -1795,7 +1795,7 @@ F000316,Philip Bond Fouke,rep,1818-01-23,IL,"36,37",1859-03-04,1863-03-03,false
 F000322,John Fowler,rep,1755,KY,"5,6,7,8,9",1797-05-15,1807-03-03,true
 F000324,Joseph Smith Fowler,sen,1820,TN,"39,40,41",1866-07-25,1871-03-03,unknown
 F000325,Orin Fowler,rep,1791-07-29,MA,"31,32",1849-03-04,1852-09-03,unknown
-F000327,Samuel Fowler,rep,1779-10-30,NJ,"23,24",1833-12-02,1837-03-03,unknown
+F000327,Samuel Fowler,rep,1779-10-30,NJ,"23,24",1833-12-02,1837-03-03,true
 F000331,John Fox,rep,1835-06-30,NY,"41,40",1867-03-04,1871-03-03,false
 F000334,Richard Franchot,rep,1816-06-02,NY,37,1861-03-04,1863-03-03,false
 F000336,John Brown Francis,sen,1791,RI,28,1844-01-25,1845-03-03,unknown
@@ -1909,7 +1909,7 @@ G000161,Henry Richard Gibson,rep,1837-12-24,TN,"54,55,56,57,58",1895-03-04,1905-
 G000162,James King Gibson,rep,1812,VA,41,1869-03-04,1871-03-03,true
 G000164,Paris Gibson,sen,1830,MT,"57,58",1901-03-07,1905-03-03,false
 G000165,Randall Lee Gibson,"rep,sen",1832,LA,"44,45,46,47,48,49,50,51,52",1875-03-05,1892-12-15,true
-G000166,De Witt Clinton Giddings,rep,1827,TX,"42,43,45",1871-03-04,1879-03-03,unknown
+G000166,De Witt Clinton Giddings,rep,1827,TX,"42,43,45",1871-03-04,1879-03-03,true
 G000167,Joshua Reed Giddings,rep,1795-10-06,OH,"25,26,27,28,29,30,31,32,33,34,35",1838-12-03,1859-03-03,false
 G000168,Napoleon Bonaparte Giddings,Delegate,1816-01-02,NE,33,1855-01-05,1855-03-03,unknown
 G000171,Abijah Gilbert,sen,1806,FL,"41,42,43",1869-03-04,1875-03-03,false
@@ -1966,7 +1966,7 @@ G000295,John Zacheus Goodrich,rep,1804-09-27,MA,"32,33",1851-03-04,1855-03-03,fa
 G000296,Milo Goodrich,rep,1814,NY,42,1871-03-04,1873-03-03,false
 G000300,Henry Charles Goodwin,rep,1824-06-25,NY,"33,35",1854-11-07,1859-03-03,false
 G000301,John Noble Goodwin,"rep,Delegate",1824-10-18,"ME,AZ","37,39",1861-03-04,1867-03-03,false
-G000306,Peterson Goodwyn,rep,1745,VA,"8,9,10,11,12,13,14,15",1803-10-17,1818-02-21,unknown
+G000306,Peterson Goodwyn,rep,1745,VA,"8,9,10,11,12,13,14,15",1803-10-17,1818-02-21,true
 G000307,Charles Goodyear,rep,1804-04-26,NY,"29,39",1845-03-04,1867-03-03,unknown
 G000310,George Washington Gordon,rep,1836-10-05,TN,"61,62,60",1907-03-04,1911-08-09,true
 G000311,James Gordon,rep,1739-10-31,NY,"2,3",1791-10-24,1795-03-03,true
@@ -2202,7 +2202,7 @@ H000256,Wiley Pope Harris,rep,1818-11-09,MS,33,1853-03-04,1855-03-03,true
 H000257,William Alexander Harris,rep,1805-08-24,VA,27,1841-03-04,1843-03-03,true
 H000261,Albert Galliton Harrison,rep,1800-06-26,MO,"24,25,26",1835-12-07,1839-09-07,true
 H000263,Benjamin Harrison,sen,1833-08-20,IN,"47,48,49",1881-03-04,1887-03-03,false
-H000266,Carter Bassett Harrison,rep,1756,VA,"3,4,5",1793-12-02,1799-03-03,unknown
+H000266,Carter Bassett Harrison,rep,1756,VA,"3,4,5",1793-12-02,1799-03-03,true
 H000267,Carter Henry Harrison,rep,1825,IL,"44,45",1875-03-05,1879-03-03,true
 H000271,Horace Harrison Harrison,rep,1829,TN,43,1873-03-04,1875-03-03,true
 H000272,John Scott Harrison,rep,1804-10-04,OH,"33,34",1853-03-04,1857-03-03,false
@@ -2283,7 +2283,7 @@ H000418,George Cochrane Hazelton,rep,1832,WI,"45,46,47",1877-03-05,1883-03-03,fa
 H000419,Gerry Whiting Hazelton,rep,1829,WI,"42,43",1871-03-04,1875-03-03,false
 H000420,John Wright Hazelton,rep,1814,NJ,"42,43",1871-03-04,1875-03-03,false
 H000425,Joseph Healy,rep,1776-08-21,NH,"19,20",1825-12-05,1829-03-03,false
-H000428,George Hearst,sen,1820,CA,"49,50,51",1886-03-23,1891-02-28,unknown
+H000428,George Hearst,sen,1820,CA,"49,50,51",1886-03-23,1891-02-28,true
 H000430,James P. Heath,rep,1777-12-21,MD,23,1833-12-02,1835-03-03,true
 H000431,John Heath,rep,1758-05-08,VA,"3,4",1793-12-02,1797-03-03,true
 H000432,David Heaton,rep,1823-05-10,NC,"40,41",1868-07-15,1870-06-25,false
@@ -2441,7 +2441,7 @@ H000774,George Washington Hopkins,rep,1804-02-22,VA,"24,25,26,27,28,29,35",1835-
 H000775,James Herron Hopkins,rep,1832,PA,"44,48",1875-03-05,1885-03-04,false
 H000778,Samuel Hopkins,rep,1753-04-09,KY,13,1813-05-24,1815-03-03,true
 H000780,Samuel Miles Hopkins,rep,1772-05-09,NY,13,1813-05-24,1815-03-03,false
-H000784,Joseph Hopkinson,rep,1770-11-12,PA,"14,15",1815-12-04,1819-03-03,true
+H000784,Joseph Hopkinson,rep,1770-11-12,PA,"14,15",1815-12-04,1819-03-03,false
 H000787,Henry Horn,rep,1786,PA,22,1831-12-05,1833-03-02,false
 H000790,John Westbrook Hornbeck,rep,1804-01-24,PA,30,1847-03-04,1848-01-16,unknown
 H000794,Roswell Gilbert Horr,rep,1830,MI,"46,47,48",1879-03-18,1885-03-04,false
@@ -2541,10 +2541,10 @@ H000976,Samuel Hunt,rep,1765-07-08,NH,"7,8",1801-12-07,1805-03-03,false
 H000977,Theodore Gaillard Hunt,rep,1805-10-23,LA,33,1853-03-04,1855-03-03,true
 H000978,Washington Hunt,rep,1811-08-05,NY,"28,29,30",1843-03-04,1849-03-03,false
 H000980,Andrew Jackson Hunter,rep,1831-12-17,IL,"53,55",1893-03-04,1899-03-04,false
-H000982,John Hunter,"rep,sen",1752,SC,"3,4,5",1793-12-02,1798-11-26,unknown
+H000982,John Hunter,"rep,sen",1752,SC,"3,4,5",1793-12-02,1798-11-26,true
 H000984,John Ward Hunter,rep,1807-10-15,NY,39,1866-12-04,1867-03-03,false
 H000985,Morton Craig Hunter,rep,1825-02-05,IN,"43,45,44,40",1867-03-04,1879-03-03,false
-H000986,Narsworthy Hunter,Delegate,,MS,7,1801-03-04,1803-03-03,unknown
+H000986,Narsworthy Hunter,Delegate,,MS,7,1801-03-04,1803-03-03,true
 H000988,Robert Mercer Taliaferro Hunter,"rep,sen",1809-04-21,VA,"25,26,27,29,30,31,32,33,34,35,36,37",1837-03-04,1861-07-11,true
 H000990,William Hunter,rep,1754-01-03,VT,15,1817-12-01,1819-03-03,false
 H000991,William Hunter,sen,1774,RI,"12,13,14,15,16",1811-10-28,1821-03-03,false
@@ -2598,7 +2598,7 @@ J000002,William Jack,rep,1788-07-29,PA,27,1841-03-04,1843-03-03,unknown
 J000005,Andrew Jackson,"rep,sen",1767-03-15,TN,"4,5,18,19",1796-10-07,1825-10-14,true
 J000007,David Sherwood Jackson,rep,1813,NY,30,1847-03-04,1848-04-19,false
 J000009,Ebenezer Jackson Jr.,rep,1796-01-31,CT,23,1834-12-01,1835-03-03,unknown
-J000010,Edward Brake Jackson,rep,1793-01-25,VA,"16,17",1820-11-13,1823-03-03,unknown
+J000010,Edward Brake Jackson,rep,1793-01-25,VA,"16,17",1820-11-13,1823-03-03,true
 J000012,George Jackson,rep,1757-01-09,VA,"4,6,7",1795-12-07,1803-03-03,unknown
 J000014,Howell Edmunds Jackson,sen,1832,TN,"47,48,49",1881-03-04,1886-04-14,false
 J000015,Jabez Young Jackson,rep,1790-07,GA,"24,25",1835-12-07,1839-03-03,true
@@ -2879,7 +2879,7 @@ L000067,John Langdon,sen,1741,NH,"1,2,3,4,5,6",1789-03-04,1801-03-03,false
 L000074,John Mercer Langston,rep,1829-12-14,VA,51,1890-09-23,1891-03-03,false
 L000083,James Lanman,sen,1767,CT,"16,17,18",1819-03-04,1825-03-03,false
 L000085,Frederick Lansing,rep,1838-02-16,NY,51,1889-03-04,1891-03-03,false
-L000086,Gerrit Yates Lansing,rep,1783-08-04,NY,"22,23,24",1831-12-05,1837-03-03,unknown
+L000086,Gerrit Yates Lansing,rep,1783-08-04,NY,"22,23,24",1831-12-05,1837-03-03,false
 L000088,William Esselstyne Lansing,rep,1821-12-29,NY,"37,42,43",1861-03-04,1875-03-03,false
 L000092,Elbridge Gerry Lapham,"rep,sen",1814,NY,"44,45,46,47,48",1875-03-05,1885-03-03,false
 L000093,Oscar Lapham,rep,1837-06-29,RI,"52,53",1891-03-04,1895-03-04,false
@@ -2896,7 +2896,7 @@ L000118,William Lattimore,Delegate,1774-02-09,MS,"8,9,13,14",1803-10-17,1817-03-
 L000120,John Laurance,"rep,sen",1750,NY,"1,2,4,5,6",1789-03-04,1801-03-03,unknown
 L000125,John Law,rep,1796-10-28,IN,"37,38",1861-03-04,1865-03-04,false
 L000126,Lyman Law,rep,1770-08-19,CT,"12,13,14",1811-11-04,1817-03-03,false
-L000129,Joab Lawler,rep,1796-06-12,AL,"24,25",1835-12-07,1838-05-08,unknown
+L000129,Joab Lawler,rep,1796-06-12,AL,"24,25",1835-12-07,1838-05-08,true
 L000130,Abbott Lawrence,rep,1792-12-16,MA,"24,26",1835-12-07,1840-09-18,false
 L000131,Cornelius Van Wyck Lawrence,rep,1791-02-28,NY,23,1833-12-02,1835-03-03,unknown
 L000132,Effingham Lawrence,rep,1820,LA,43,1873-03-04,1875-03-03,true
@@ -3187,7 +3187,7 @@ M000225,Samson Mason,rep,1793-07-24,OH,"24,25,26,27",1835-03-04,1843-03-03,unkno
 M000226,Stevens Thomson Mason,sen,1760,VA,"3,4,5,6,7,8",1794-11-18,1803-05-10,true
 M000227,William Mason,rep,1786-09-10,NY,24,1835-03-04,1837-03-03,false
 M000232,Josiah Masters,rep,1763-11-22,NY,"9,10",1805-12-02,1809-03-03,unknown
-M000234,George Mathews,rep,1739-08-30,GA,1,1789-03-04,1791-03-03,unknown
+M000234,George Mathews,rep,1739-08-30,GA,1,1789-03-04,1791-03-03,true
 M000237,James Mathews,rep,1805-06-04,OH,"27,28",1841-03-04,1845-03-03,false
 M000239,Vincent Mathews,rep,1766-06-29,NY,11,1809-05-22,1811-03-03,true
 M000240,Elisha Mathewson,sen,1767,RI,"10,11",1807-03-04,1811-03-03,false
@@ -3318,7 +3318,7 @@ M000549,John McLean,rep,1785-03-11,OH,"13,14",1813-05-24,1816,true
 M000550,John McLean,"rep,sen",1791-02-04,IL,"15,18,21",1817-12-01,1830-10-14,false
 M000551,Samuel McLean,Delegate,1826-08-07,MT,"38,39",1865-01-06,1867-03-03,false
 M000552,William McLean,rep,1794-08-10,OH,"18,19,20",1823-12-01,1829-03-03,false
-M000553,William Pinkney McLean,rep,1836,TX,43,1873-03-04,1875-03-03,unknown
+M000553,William Pinkney McLean,rep,1836,TX,43,1873-03-04,1875-03-03,true
 M000556,Jeremiah McLene,rep,1767,OH,"23,24",1833-12-02,1837-03-03,unknown
 M000561,John A. McMahon,rep,1833,OH,"44,45,46",1875-03-05,1881-03-03,false
 M000562,William McManus,rep,1780,NY,19,1825-12-05,1827-03-03,false
@@ -3350,7 +3350,7 @@ M000632,Henry Meigs,rep,1782-10-28,NY,16,1819-12-06,1821-03-03,false
 M000633,Return Jonathan Meigs Jr.,sen,1764,OH,"10,11",1808-12-12,1810-12-08,false
 M000636,Prentiss Mellen,sen,1764,MA,"15,16",1818-06-05,1820-05-15,false
 M000637,David Batcheller Mellish,rep,1831,NY,43,1873-03-04,1875-03-03,false
-M000638,Richard Hickman Menefee,rep,1809-12-04,KY,25,1837-03-04,1839-03-03,unknown
+M000638,Richard Hickman Menefee,rep,1809-12-04,KY,25,1837-03-04,1839-03-03,true
 M000641,John William Menzies,rep,1819-04-12,KY,37,1861-03-04,1863-03-03,true
 M000642,Charles Fenton Mercer,rep,1778-06-16,VA,"15,16,17,18,19,20,21,22,23,24,25,26",1817-12-01,1839-12-26,true
 M000645,John Francis Mercer,rep,1759-05-17,MD,"2,3",1791-10-24,1794-04-13,true
@@ -3385,7 +3385,7 @@ M000722,Daniel H. Miller,rep,,PA,"18,19,20,21",1823-12-31,1831-03-03,unknown
 M000726,George Funston Miller,rep,1809-09-05,PA,"40,39",1865-03-04,1869-03-03,false
 M000728,Homer Virgil Milton Miller,sen,1814,GA,41,1871-02-24,1871-03-03,true
 M000731,Jacob Welsh Miller,sen,1800,NJ,"27,28,29,30,31,32",1841-03-04,1853-03-03,false
-M000732,James Francis Miller,rep,1830,TX,"48,49",1883-12-03,1887-03-03,unknown
+M000732,James Francis Miller,rep,1830,TX,"48,49",1883-12-03,1887-03-03,true
 M000734,Jesse Miller,rep,1800,PA,"23,24",1833-12-02,1836-10-30,false
 M000735,John Miller,rep,1781-11-25,MO,"25,26,27",1837-03-04,1843-03-03,true
 M000737,John Miller,rep,1774-11-10,NY,19,1825-12-05,1827-03-03,false
@@ -3465,7 +3465,7 @@ M000902,Jesse Hale Moore,rep,1817-04-22,IL,"41,42",1869-03-04,1873-03-03,false
 M000903,John Moore,rep,1788,LA,"26,27,32",1840-12-17,1853-03-03,true
 M000907,Laban Theodore Moore,rep,1829-01-13,KY,36,1859-03-04,1861-03-03,true
 M000908,Littleton Wilde Moore,rep,1835-03-25,TX,"50,51,52",1887-03-04,1893-03-04,true
-M000909,Nicholas Ruxton Moore,rep,1756-07-21,MD,"8,9,10,11,13,14",1803-10-17,1815,unknown
+M000909,Nicholas Ruxton Moore,rep,1756-07-21,MD,"8,9,10,11,13,14",1803-10-17,1815,true
 M000910,Orren Cheney Moore,rep,1839-08-10,NH,51,1889-03-04,1891-03-03,false
 M000911,Oscar Fitzallen Moore,rep,1817-01-27,OH,34,1855-03-04,1857-03-03,false
 M000913,Robert Moore,rep,1778-03-30,PA,"15,16",1817-12-01,1821-03-03,false
@@ -3674,7 +3674,7 @@ O000066,Abram Baldwin Olin,rep,1808-09-21,NY,"35,36,37",1857-03-04,1863-03-03,fa
 O000067,Gideon Olin,rep,1743-11-02,VT,"8,9",1803-10-17,1807-03-03,false
 O000068,Henry Olin,rep,1768-05-07,VT,18,1823-12-01,1825-03-03,false
 O000070,Andrew Oliver,rep,1815-01-16,NY,"33,34",1853-03-04,1857-03-03,false
-O000075,Mordecai Oliver,rep,1819-10-22,MO,"33,34",1853-03-04,1857-03-03,unknown
+O000075,Mordecai Oliver,rep,1819-10-22,MO,"33,34",1853-03-04,1857-03-03,true
 O000076,Samuel Addison Oliver,rep,1833,IA,"44,45",1875-03-05,1879-03-03,false
 O000078,William Morrison Oliver,rep,1792-10-15,NY,27,1841-03-04,1843-03-03,false
 O000091,John Henry O’Neall,rep,1838-10-30,IN,"50,51",1887-03-04,1891-03-03,false
@@ -4038,12 +4038,12 @@ R000037,Charles Sturtevant Randall,rep,1824-02-20,MA,"51,52,53",1889-03-04,1895-
 R000039,Samuel Jackson Randall,rep,1828-10-10,PA,"38,39,40,41,42,43,44,45,46,47,48,49,50,51",1863-03-04,1890-04-13,false
 R000040,William Harrison Randall,rep,1812-07-15,KY,"38,39",1863-03-04,1867-03-03,true
 R000044,James Fitz Randolph,rep,1791-06,NJ,"20,21,22",1828-12-01,1833-03-02,false
-R000045,James Henry Randolph,rep,1825,TN,45,1877-03-05,1879-03-03,unknown
+R000045,James Henry Randolph,rep,1825,TN,45,1877-03-05,1879-03-03,true
 R000047,John Randolph,"rep,sen",1773-06-02,VA,"6,7,8,9,10,11,12,14,16,17,18,19,20,23",1799-12-02,1833-05-24,true
 R000048,Joseph Fitz Randolph,rep,1803-03-14,NJ,"25,26,27",1837-03-04,1843-03-03,false
 R000050,Theodore Fitz Randolph,sen,1826,NJ,"46,44,45",1875-03-04,1881-03-03,false
 R000051,Thomas Mann Randolph,rep,1768-10-01,VA,"8,9",1803-10-17,1807-03-03,true
-R000054,Christopher Rankin,rep,1788,MS,"16,17,18,19",1819-12-06,1826-03-14,unknown
+R000054,Christopher Rankin,rep,1788,MS,"16,17,18,19",1819-12-06,1826-03-14,true
 R000057,Joseph Rankin,rep,1833,WI,"48,49",1883-12-03,1887-03-03,false
 R000058,Ambrose Arnold Ranney,rep,1821,MA,"47,48,49",1881-03-04,1887-03-03,false
 R000060,Alonzo Jacob Ransier,rep,1834,SC,43,1873-03-04,1875-03-03,false
@@ -4371,7 +4371,7 @@ S000254,Thomas Settle,rep,1789-03-09,NC,"15,16",1817-12-01,1821-03-03,true
 S000255,Luther Severance,rep,1797-10-26,ME,"28,29",1843-03-04,1847-03-03,false
 S000256,Ambrose Hundley Sevier,"Delegate,sen",1801-11-04,AR,"20,21,22,23,24,25,26,27,28,29,30",1828-02-13,1848-03-15,true
 S000257,John Sevier,rep,1745-09-23,"NC,TN","1,12,13,14",1789-03-04,1815-09-24,true
-S000258,Charles S. Sewall,rep,1779,MD,"22,27",1832-12-03,1843-03-03,unknown
+S000258,Charles S. Sewall,rep,1779,MD,"22,27",1832-12-03,1843-03-03,true
 S000259,Samuel Sewall,rep,1757-12-11,MA,"4,5,6",1795-12-07,1800-12-10,false
 S000260,James Lindsay Seward,rep,1813-10-30,GA,"33,34,35",1853-03-04,1859-03-03,true
 S000261,William Henry Seward,sen,1801,NY,"31,32,33,34,35,36",1849-03-04,1861-03-03,false
@@ -4479,7 +4479,7 @@ S000475,William Slade,rep,1786-05-09,VT,"22,23,24,25,26,27",1831-12-05,1843-03-0
 S000476,James Harvey Slater,"rep,sen",1826,OR,"42,46,47,48",1871-03-04,1885-03-03,false
 S000483,Amos Slaymaker,rep,1755-03-11,PA,13,1813-05-24,1815-03-03,true
 S000484,William Ferguson Slemons,rep,1830,AR,"44,45,46",1875-03-05,1881-03-03,true
-S000485,Campbell Slemp,rep,1839-12-02,VA,"60,59,58",1903-03-04,1907-10-13,unknown
+S000485,Campbell Slemp,rep,1839-12-02,VA,"60,59,58",1903-03-04,1907-10-13,true
 S000487,John Slidell,"rep,sen",1793,LA,"28,29,33,34,35,36",1843-03-04,1861-02-04,true
 S000488,John I. Slingerland,rep,1804-03-01,NY,30,1847-03-04,1849-03-03,false
 S000490,Andrew Scott Sloan,rep,1820-06-12,WI,37,1861-03-04,1863-03-03,false
@@ -4493,7 +4493,7 @@ S000498,Joseph Humphrey Sloss,rep,1826,AL,"42,43",1871-03-04,1875-03-03,false
 S000501,William Bradbury Small,rep,1817,NH,43,1873-03-04,1875-03-03,false
 S000502,Robert Smalls,rep,1839,SC,"45,48,44,47,49",1875-03-05,1887-03-03,false
 S000503,Ephraim Knight Smart,rep,1813-09-03,ME,"30,32",1847-03-04,1853-03-03,false
-S000507,Dennis Smelt,rep,1750,GA,"9,10,11",1805-12-27,1811-03-03,unknown
+S000507,Dennis Smelt,rep,1750,GA,"9,10,11",1805-12-27,1811-03-03,true
 S000508,John Smilie,rep,1741,PA,"3,6,7,8,9,10,11,12",1793-12-02,1812-12-30,false
 S000509,Abraham Herr Smith,rep,1815,PA,"43,44,45,46,47,48",1873-03-04,1885-03-04,false
 S000512,Albert Smith,rep,1805-06-22,NY,"28,29",1843-03-04,1847-03-03,false
@@ -4538,7 +4538,7 @@ S000599,Oliver Hampton Smith,"rep,sen",1794-10-23,IN,"20,25,26,27",1827-12-03,18
 S000600,Perry Smith,sen,1783,CT,"25,26,27",1837-03-04,1843-03-03,false
 S000604,Robert Smith,rep,1802-06-12,IL,"28,35,30,29",1843-03-04,1859-03-03,false
 S000608,Samuel Smith,rep,1765-11-11,NH,13,1813-05-24,1814-05-21,false
-S000609,Samuel Smith,"rep,sen",1752-07-27,MD,"3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",1793-12-07,1833-03-03,unknown
+S000609,Samuel Smith,"rep,sen",1752-07-27,MD,"3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",1793-12-07,1833-03-03,true
 S000610,Samuel Smith,rep,,PA,"9,10,11",1805-12-02,1811-03-03,unknown
 S000611,Samuel A. Smith,rep,1795,PA,"21,22",1829-12-07,1833-03-02,false
 S000612,Samuel Axley Smith,rep,1822-06-26,TN,"33,34,35",1853-03-04,1859-03-03,false
@@ -4559,7 +4559,7 @@ S000637,William Russell Smith,rep,1815-03-27,AL,"32,33,34",1851-03-04,1857-03-03
 S000638,William Stephens Smith,rep,1755-11-08,NY,13,1813-05-24,1815-03-03,unknown
 S000641,Worthington Curtis Smith,rep,1823-04-23,VT,"40,41,42",1867-03-04,1873-03-03,false
 S000642,Nathaniel Barratt Smithers,rep,1818-10-08,DE,38,1863-12-07,1865-03-04,unknown
-S000646,Alexander Smyth,rep,1765,VA,"15,16,17,18,20,21",1817-12-01,1830-04-17,unknown
+S000646,Alexander Smyth,rep,1765,VA,"15,16,17,18,20,21",1817-12-01,1830-04-17,true
 S000647,George Washington Smyth,rep,1803-05-16,TX,33,1853-03-04,1855-03-03,true
 S000648,William Smyth,rep,1824-01-03,IA,41,1869-03-04,1870-09-30,false
 S000649,Henry Snapp,rep,1822,IL,42,1871-03-04,1873-03-03,false
@@ -4631,7 +4631,7 @@ S000780,James Alonzo Stahle,rep,1829-01-11,PA,54,1895-03-04,1897-03-03,false
 S000786,James Adams Stallworth,rep,1822-04-07,AL,"35,36",1857-03-04,1861-01-21,true
 S000787,Edwin Obed Stanard,rep,1832,MO,43,1873-03-04,1875-03-03,false
 S000788,William Stanbery,rep,1788-08-10,OH,"20,21,22",1827-12-03,1833-03-02,false
-S000789,James Israel Standifer,rep,1782,TN,"18,21,22,23,24,25",1823-12-01,1837-08-20,unknown
+S000789,James Israel Standifer,rep,1782,TN,"18,21,22,23,24,25",1823-12-01,1837-08-20,true
 S000790,Elisha David Standiford,rep,1831,KY,43,1873-03-04,1875-03-03,true
 S000793,Leland Stanford,sen,1824,CA,"49,50,51,52,53",1885-03-04,1893-06-21,false
 S000794,Richard Stanford,rep,1767-03-02,NC,"5,6,7,8,9,10,11,12,13,14",1797-05-15,1816-04-09,true
@@ -4743,7 +4743,7 @@ S000988,Horace Burton Strait,rep,1835,MN,"43,44,45,47,48,49",1873-03-04,1887-03-
 S000990,James Samuel Thomas Stranahan,rep,1808-04-25,NY,34,1855-03-04,1857-03-03,false
 S000992,Robert Strange,sen,1796,NC,"24,25,26",1836-12-05,1840-11-16,true
 S000993,Charles Creighton Stratton,rep,1796-03-06,NJ,"25,27",1837-03-04,1843-03-03,false
-S000994,John Stratton,rep,1769-08-19,VA,7,1801-12-07,1803-03-03,unknown
+S000994,John Stratton,rep,1769-08-19,VA,7,1801-12-07,1803-03-03,true
 S000995,John Leake Newbold Stratton,rep,1817-11-27,NJ,"36,37",1859-03-04,1863-03-03,false
 S000996,Nathan Taylor Stratton,rep,1813-03-17,NJ,"32,33",1851-03-04,1855-03-03,false
 S000999,Christian Markle Straub,rep,1804,PA,33,1853-03-04,1855-03-03,unknown
@@ -4832,7 +4832,7 @@ T000042,Christian Tarr,rep,1765-05-25,PA,"15,16",1817-12-01,1821-03-03,false
 T000047,Magnus Tate,rep,1760,VA,14,1815-12-04,1817-03-03,true
 T000050,Absalom Tatom,rep,1742,NC,4,1795-12-07,1796-06-01,true
 T000051,Edward Fenwick Tattnall,rep,1788,GA,"17,18,19",1821-12-03,1827-03-03,true
-T000052,Josiah Tattnall,sen,1762,GA,"4,5",1796-04-12,1799-03-03,unknown
+T000052,Josiah Tattnall,sen,1762,GA,"4,5",1796-04-12,1799-03-03,true
 T000054,Micah Taul,rep,1785-05-14,KY,14,1815-12-04,1817-03-03,true
 T000062,Abner Taylor,rep,1829,IL,"51,52",1889-03-04,1893-03-04,false
 T000063,Alexander Wilson Taylor,rep,1815,PA,43,1873-03-04,1875-03-03,false
@@ -5385,7 +5385,7 @@ W000522,John Stuart Williams,sen,1818,KY,"46,47,48",1879-03-04,1885-03-03,true
 W000523,Jonathan Williams,rep,1750-05-20,PA,14,1815-03-04,1815-05-16,false
 W000524,Joseph Lanier Williams,rep,1810-10-23,TN,"25,26,27",1837-03-04,1843-03-03,unknown
 W000526,Lemuel Williams,rep,1747-06-18,MA,"6,7,8",1799-12-02,1805-03-03,false
-W000527,Lewis Williams,rep,1782-02-01,NC,"14,15,16,17,18,19,20,21,22,23,24,25,26,27",1815-12-04,1842-02-23,unknown
+W000527,Lewis Williams,rep,1782-02-01,NC,"14,15,16,17,18,19,20,21,22,23,24,25,26,27",1815-12-04,1842-02-23,true
 W000529,Marmaduke Williams,rep,1774-04-06,NC,"8,9,10",1803-11-17,1809-03-03,true
 W000530,Morgan B. Williams,rep,1831-09-17,PA,55,1897-03-15,1899-03-04,false
 W000531,Nathan Williams,rep,1773-12-19,NY,9,1805-12-02,1807-03-03,false
@@ -5396,7 +5396,7 @@ W000536,Sherrod Williams,rep,1804,KY,"24,25,26",1835-12-07,1841-03-03,false
 W000537,Thomas Williams,rep,1825,AL,"46,47,48",1879-03-18,1885-03-04,true
 W000538,Thomas Williams,rep,1806-08-28,PA,"38,39,40",1863-03-04,1869-03-03,false
 W000539,Thomas Hickman Williams,sen,1801,MS,25,1838-11-12,1839-03-03,true
-W000540,Thomas Hill Williams,sen,1780,MS,"15,16,17,18,19,20",1817-12-10,1829-03-03,unknown
+W000540,Thomas Hill Williams,sen,1780,MS,"15,16,17,18,19,20",1817-12-10,1829-03-03,true
 W000541,Thomas Scott Williams,rep,1777-06-26,CT,15,1817-12-01,1819-03-03,false
 W000543,Thomas Wheeler Williams,rep,1789-09-28,CT,"26,27",1839-03-04,1843-03-03,false
 W000544,William Williams,rep,1815,NY,42,1871-03-04,1873-03-03,false
@@ -5499,7 +5499,7 @@ W000729,Samuel Hughes Woodson,rep,1777-09-15,KY,17,1821-12-03,1823-03-03,true
 W000730,George Washington Woodward,rep,1809-03-26,PA,"41,40",1867-11-21,1871-03-03,false
 W000731,Gilbert Motier Woodward,rep,1835-12-25,WI,48,1883-12-03,1885-03-04,false
 W000732,Joseph Addison Woodward,rep,1806-04-11,SC,"28,29,30,31,32",1843-03-04,1853-03-03,true
-W000733,William Woodward,rep,,SC,14,1815-12-04,1817-03-03,unknown
+W000733,William Woodward,rep,,SC,14,1815-12-04,1817-03-03,true
 W000734,James Hutchinson Woodworth,rep,1804-12-04,IL,34,1855-03-04,1857-03-03,unknown
 W000735,Laurin Dewey Woodworth,rep,1837,OH,"44,43",1873-03-04,1877-03-04,false
 W000736,William W. Woodworth,rep,1807-03-16,NY,29,1845-03-04,1847-03-03,false

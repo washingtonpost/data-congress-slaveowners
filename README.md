@@ -43,6 +43,9 @@ Variables that can be found in the data:
 
 ## Changelog
 
+##### March 10, 2022
+We confirmed and updated 37 entries with contributions from Washington Post readers.
+
 ##### Feb. 14, 2022
 We confirmed and updated 38 entries with contributions from Washington Post readers.
 
@@ -55,7 +58,7 @@ We confirmed and updated 28 entries with contributions from Washington Post read
 ##### Jan. 10, 2022
 Database originally published on Monday, January 10, 2022.
 
-The following Washington Post readers contributed research used to update the database of slaveholders in Congress: Luke Voyles in Tuscaloosa, Ala.; Carol Bannes in St. Charles, Mo.; Joshua Benton in Arlington, Mass.; Karla Benton in Milwaukee; Ned Benton in Larchmont, N.Y.; Melinda Buterbaugh in Los Angeles; Paul Carnahan in Barre, Vt.; Vera Cecelski in Durham, N.C.; Lisa C. Childs in Fayetteville, Ark.; Gloria Clarke in Bridgeton, N.J.; Michelle Dwyer Cohen in Poulsbo, Wash.; Lyndon Comstock in Bolinas, Calif.; Matthew Edwards in Atlanta; P. Ekman in Media, Pa.; Christopher Handy in Santa Barbara, Calif.; Vincent Johnson in Los Angeles; Jennie Leichtling in Cambridge, Md.; David B. Mattern in Charlottesville; Beth O’Malley in St. Louis; Charles Perkins in Enfield, N.H.; Timothy M. Phelps in Washington; Courtney Pinkard in Montgomery, Ala.; Chris Pupke in Centreville, Md.; Abby Raskin in Brooklyn; Dustin Renwick in Washington; Gordon Rose in Thousand Oaks, Calif.; Gwen Runion in Leonardtown, Md.; Kelly L. Schmidt in St. Louis; Mary Louisa Bacon Sturges in El Cerrito, Calif.; Darlene Walsh in Columbia, Md.; Ruette M. Watson in Princeton, N.J.; Abby Westgate in Little Silver, N.J.; Kim Curlin Wettroth in Cary, N.C.; Paula L. Wiegand in Indian Head, Md.; Allen J. Wiener in Clearwater Beach, Fla.; Bridgett Williams-Searle in Albany, N.Y.
+The following Washington Post readers contributed research used to update the database of slaveholders in Congress: Luke Voyles in Tuscaloosa, Ala.; Carol Bannes in St. Charles, Mo.; Joshua Benton in Arlington, Mass.; Karla Benton in Milwaukee; Ned Benton in Larchmont, N.Y.; Melinda Buterbaugh and Vincent Johnson in Los Angeles; Paul Carnahan in Barre, Vt.; Vera Cecelski in Durham, N.C.; Lisa C. Childs in Fayetteville, Ark.; Gloria Clarke in Bridgeton, N.J.; Michelle Dwyer Cohen in Poulsbo, Wash.; Lyndon Comstock in Bolinas, Calif.; Beth Danesco in Mansfield, Mass.; Donna W. Dzierlenga in Houston; Matthew Edwards in Atlanta; P. Ekman in Media, Pa.; Susan Erickson in Signal Hill, Calif.; Christopher Handy in Santa Barbara, Calif.; Alexandra Kennedy and David B. Mattern in Charlottesville; Jennie Leichtling in Cambridge, Md.; Kecia Lifton in Plymouth, Mass.; ; David McGee in Lynchburg, Va.; Susana Moore in New York; Kathy Nitsch in Sarasota, Fla.; Beth O’Malley and Kelly L. Schmidt in St. Louis; Patricia Paakkonen in Espoo, Finland; Charles Perkins in Enfield, N.H.; Timothy M. Phelps and Dustin Renwick in Washington; Courtney Pinkard in Montgomery, Ala.; Chris Pupke in Centreville, Md.; Abby Raskin in Brooklyn; Gordon Rose in Thousand Oaks, Calif.; Gwen Runion in Leonardtown, Md.; Mary Louisa Bacon Sturges in El Cerrito, Calif.; Darlene Walsh in Columbia, Md.; Ruette M. Watson in Princeton, N.J.; Abby Westgate in Little Silver, N.J.; Kim Curlin Wettroth in Cary, N.C.; Paula L. Wiegand in Indian Head, Md.; Allen J. Wiener in Clearwater Beach, Fla.; Bridgett Williams-Searle in Albany, N.Y.
 
 We are soliciting [help and feedback from readers](https://www.washingtonpost.com/history/interactive/2022/submit-congress-enslaved-database/) and we will update the data in this repository as we verify new evidence that comes to light.
 
