@@ -43,6 +43,9 @@ Variables that can be found in the data:
 
 ## Changelog
 
+##### April 12, 2022
+We confirmed and updated 21 entries with contributions from Washington Post readers.
+
 ##### March 10, 2022
 We confirmed and updated 37 entries with contributions from Washington Post readers.
 
