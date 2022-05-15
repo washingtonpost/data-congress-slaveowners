@@ -1636,7 +1636,7 @@ E000248,Joshua Evans Jr.,rep,1777-01-20,PA,"21,22",1829-12-07,1833-03-02,false
 E000249,Josiah James Evans,sen,1786,SC,"33,34,35",1853-03-04,1858-05-06,true
 E000251,Lemuel Dale Evans,rep,1810-01-08,TX,34,1855-03-04,1857-03-03,unknown
 E000255,Nathan Evans,rep,1804-06-24,OH,"30,31",1847-03-04,1851-03-03,false
-E000257,Thomas Evans,rep,1755,VA,"5,6",1797-05-15,1801-03-03,unknown
+E000257,Thomas Evans,rep,1755,VA,"5,6",1797-05-15,1801-03-03,true
 E000262,William Maxwell Evarts,sen,1818,NY,"49,50,51",1885-03-04,1891-03-03,false
 E000264,Edward Everett,"rep,sen",1794-04-11,MA,"19,22,21,33,23,20",1825-12-05,1854-06-01,unknown
 E000265,Horace Everett,rep,1779-07-17,VT,"21,22,23,24,25,26,27",1829-12-07,1843-03-03,false
@@ -1883,7 +1883,7 @@ G000095,Athelston Gaston,rep,1838-04-24,PA,56,1899-03-04,1901-03-03,false
 G000096,William Gaston,rep,1778-09-19,NC,"13,14",1813-05-24,1817-03-03,true
 G000097,Seth Merrill Gates,rep,1800-10-10,NY,"26,27",1839-03-04,1843-03-03,false
 G000099,Alfred Moore Gatlin,rep,1790-04-20,NC,18,1823-12-01,1825-03-03,true
-G000100,Lucien Coatsworth Gause,rep,1836,AR,"44,45",1875-03-05,1879-03-03,unknown
+G000100,Lucien Coatsworth Gause,rep,1836,AR,"44,45",1875-03-05,1879-03-03,false
 G000103,Edward James Gay,rep,1816-02-03,LA,"50,49,51",1885-03-04,1889-05-30,true
 G000106,John Gayle,rep,1792-09-11,AL,30,1847-03-04,1849-03-03,true
 G000108,James Madison Gaylord,rep,1811-05-29,OH,32,1851-03-04,1853-03-03,false
@@ -2190,7 +2190,7 @@ H000242,Ira Harris,sen,1802,NY,"37,38,39",1861-03-04,1867-03-03,false
 H000243,Isham Green Harris,"rep,sen",1818-02-10,TN,"31,32,45,46,47,48,49,50,51,52,53,54,55",1849-03-04,1897-07-08,true
 H000244,James Morrison Harris,rep,1817-11-20,MD,"34,35,36",1855-03-04,1861-03-03,true
 H000245,John Harris,rep,1760-09-26,NY,10,1807-10-26,1809-03-03,false
-H000246,John Spafford Harris,sen,1825,LA,"40,41",1868-07-17,1871-03-03,unknown
+H000246,John Spafford Harris,sen,1825,LA,"40,41",1868-07-17,1871-03-03,false
 H000247,John Thomas Harris,rep,1823-05-08,VA,"45,44,43,36,42,46",1859-03-04,1881-03-03,true
 H000248,Mark Harris,rep,1779-01-27,ME,17,1822-12-02,1823-03-03,false
 H000250,Robert Harris,rep,1768-09-05,PA,"18,19",1823-12-01,1827-03-03,true
@@ -3520,7 +3520,7 @@ M000997,John Alexander Morrison,rep,1814-01-31,PA,32,1851-03-04,1853-03-03,false
 M001000,William Ralls Morrison,rep,1824-09-14,IL,"38,43,44,45,46,47,48,49",1863-03-04,1887-03-03,false
 M001001,John Morrissey,rep,1831-02-12,NY,"40,41",1867-03-04,1871-03-03,false
 M001003,Jeremiah Morrow,"rep,sen",1771-10-06,OH,"8,9,10,11,12,13,14,15,26,27",1803-10-17,1843-03-03,unknown
-M001005,John Morrow,rep,,VA,"9,10",1805-12-02,1809-03-03,unknown
+M001005,John Morrow,rep,,VA,"9,10",1805-12-02,1809-03-03,true
 M001010,Freeman Harlow Morse,rep,1807-02-18,ME,"28,35,36",1843-03-04,1861-03-03,false
 M001011,Isaac Edward Morse,rep,1809-05-22,LA,"28,29,30,31",1844-12-02,1851-03-03,true
 M001012,Leopold Morse,rep,1831-08-15,MA,"45,46,47,48,50",1877-03-05,1889-03-04,false
