@@ -1086,7 +1086,7 @@ C000660,Barnes Compton,rep,1830-11-16,MD,"51,49,50,53,52",1885-03-04,1894-05-15,
 C000662,Charles Carter Comstock,rep,1818,MI,49,1885-03-04,1887-03-03,false
 C000664,Oliver Cromwell Comstock,rep,1780-03-01,NY,"13,14,15",1813-05-24,1819-03-03,false
 C000667,John Conard,rep,1773-11,PA,13,1813-05-24,1815-03-03,false
-C000668,Lewis Condict,rep,1772-03-03,NJ,"12,13,14,17,18,19,20,21,22",1811-11-04,1833-03-02,unknown
+C000668,Lewis Condict,rep,1772-03-03,NJ,"12,13,14,17,18,19,20,21,22",1811-11-04,1833-03-02,true
 C000671,John Condit,"rep,sen",1755-07-08,NJ,"6,7,8,9,10,11,12,13,14,16",1799-12-02,1819-11-04,true
 C000672,Silas Condit,rep,1778-08-18,NJ,22,1831-12-05,1833-03-02,unknown
 C000676,Harmon Sweatland Conger,rep,1816-04-09,NY,"30,31",1847-03-04,1851-03-03,false
@@ -1788,7 +1788,7 @@ F000305,Henry Donnel Foster,rep,1808-12-19,PA,"28,29,42",1843-03-04,1873-03-03,f
 F000308,Lafayette Sabine Foster,sen,1806,CT,"34,35,36,37,38,39",1855-03-04,1867-03-03,false
 F000311,Nathaniel Greene Foster,rep,1809-08-25,GA,34,1855-03-04,1857-03-03,true
 F000312,Stephen Clark Foster,rep,1799-12-24,ME,"35,36",1857-03-04,1861-03-03,false
-F000313,Theodore Foster,sen,1752,RI,"4,6,7,2,3,1,5",1790-06-12,1803-03-03,false
+F000313,Theodore Foster,sen,1752,RI,"4,6,7,2,3,1,5",1790-06-12,1803-03-03,true
 F000314,Thomas Flournoy Foster,rep,1790-11-23,GA,"21,22,23,27",1829-12-07,1843-03-03,true
 F000315,Wilder De Ayr Foster,rep,1819,MI,"42,43",1871-03-04,1875-03-03,false
 F000316,Philip Bond Fouke,rep,1818-01-23,IL,"36,37",1859-03-04,1863-03-03,false
@@ -2743,7 +2743,7 @@ K000074,James Kerr Kelly,sen,1819,OR,"42,43,44",1871-03-04,1877-03-03,false
 K000075,John Kelly,rep,1822-04-20,NY,"34,35",1855-03-04,1858-12-24,false
 K000079,William Kelly,sen,1786,AL,"17,18",1822-12-12,1825-03-03,true
 K000080,William Henry Kelsey,rep,1812-10-02,NY,"34,35,40,41",1855-03-04,1871-03-03,false
-K000081,John Russell Kelso,rep,1831-03-23,MO,39,1865-03-04,1867-03-03,unknown
+K000081,John Russell Kelso,rep,1831-03-23,MO,39,1865-03-04,1867-03-03,false
 K000084,Gouverneur Kemble,rep,1786-01-25,NY,"25,26",1837-03-04,1841-03-03,false
 K000087,Thomas Kempshall,rep,1796,NY,26,1839-03-04,1841-03-03,false
 K000089,Thomas Kenan,rep,1771-02-26,NC,"9,10,11",1805-12-02,1811-03-03,true
@@ -3043,7 +3043,7 @@ L000445,George Bailey Loring,rep,1817,MA,"45,46",1877-03-05,1881-03-03,false
 L000451,William Loughridge,rep,1827-07-11,IA,"40,41,43",1867-03-04,1875-03-03,false
 L000452,William Lounsbery,rep,1831,NY,46,1879-03-18,1881-03-03,false
 L000455,James Love,rep,1795-05-12,KY,23,1833-12-02,1835-03-03,false
-L000456,John Love,rep,,VA,"10,11",1807-10-26,1811-03-03,unknown
+L000456,John Love,rep,,VA,"10,11",1807-10-26,1811-03-03,true
 L000457,Peter Early Love,rep,1818-07-07,GA,36,1859-03-04,1861-01-23,true
 L000459,Thomas Cutting Love,rep,1789-11-30,NY,24,1835-03-04,1837-03-03,false
 L000460,William Carter Love,rep,1784,NC,14,1815-12-04,1817-03-03,true
@@ -3156,7 +3156,7 @@ M000168,Barclay Martin,rep,1802-12-17,TN,29,1845-03-04,1847-03-03,true
 M000169,Benjamin Franklin Martin,rep,1828,WV,"45,46",1877-03-05,1881-03-03,false
 M000171,Charles Drake Martin,rep,1829-08-05,OH,36,1859-03-04,1861-03-03,false
 M000178,Edward Livingston Martin,rep,1837,DE,"46,47",1879-03-18,1883-03-03,unknown
-M000179,Elbert Sevier Martin,rep,1829,VA,36,1859-03-04,1861-03-03,unknown
+M000179,Elbert Sevier Martin,rep,1829,VA,36,1859-03-04,1861-03-03,true
 M000180,Frederick Stanley Martin,rep,1794-04-25,NY,32,1851-03-04,1853-03-03,false
 M000184,James Stewart Martin,rep,1826,IL,43,1873-03-04,1875-03-03,false
 M000185,John Martin,sen,1833,KS,53,1893-03-04,1895-03-03,unknown
@@ -4584,7 +4584,7 @@ S000694,Richard Dobbs Spaight Jr.,rep,1796,NC,18,1823-12-01,1825-03-03,true
 S000696,George Spalding,rep,1836-11-12,MI,"54,55",1895-12-02,1899-03-04,false
 S000697,Rufus Paine Spalding,rep,1798-05-03,OH,"38,39,40",1863-03-04,1869-03-03,false
 S000698,Thomas Spalding,rep,1774-03-26,GA,9,1805-12-02,1806,true
-S000699,David Spangler,rep,1796-12-02,OH,"23,24",1833-12-02,1837-03-03,false
+S000699,David Spangler,rep,1796-12-02,OH,"23,24",1833-12-02,1837-03-03,true
 S000700,Jacob Spangler,rep,1767-11-28,PA,15,1817-12-01,1818-04-20,false
 S000704,William Andrew Jackson Sparks,rep,1828,IL,"44,45,46,47",1875-03-05,1883-03-03,false
 S000705,Elbridge Gerry Spaulding,rep,1809-02-24,NY,"31,36,37",1849-03-04,1863-03-03,false
